@@ -66,3 +66,7 @@ div#formulario > p {
 div#formulario > form > div > label {
   font-size: .8em;
 }
+
+div.campo > input {
+  width: 150px;
+}
